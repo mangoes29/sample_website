@@ -4,3 +4,26 @@
 .nav-spacing {
     margin: 0 0 0 10px;
  }
+.image-link {
+     text-decoration: none;
+ }
+ 
+ .moby-header {
+    text-align: center; 
+    margin: 0 0 80px;
+ }
+ 
+.moby-whale {
+    display: block;
+    margin: 0 auto;
+ }
+ .moby-article {
+    width: 500px; 
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #fafafa;
+ }
+ .moby-book-pic {
+    float: left;
+    margin-right: 40px;
+ }
